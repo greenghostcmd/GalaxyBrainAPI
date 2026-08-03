@@ -25,13 +25,13 @@ __Fun Fact__: I got idea of this API when i was scrolling and found the galaxy b
 **API**
 
 ```
-on hold
+https://galaxybrainapi-production.up.railway.app
 ```
 
 **Swagger Docs**
 
 ```
-on hold
+https://galaxybrainapi-production.up.railway.app/docs
 ```
 
 ## Screenshots
