@@ -50,7 +50,7 @@ https://galaxybrainapi-production.up.railway.app/docs
 
 ## Project Structure 
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 GalaxyBrainAPI/
