@@ -34,8 +34,6 @@ https://galaxybrain.dino.icu
 https://galaxybrain.dino.icu/docs
 ```
 
-## Screenshots
-
 
 ## Tech Stack
 
@@ -48,7 +46,6 @@ https://galaxybrain.dino.icu/docs
 | Pydantic | Validation |
 | Uvicorn | ASGI Server |
 
-## Project Structure 
 
 ## Project Structure
 
